@@ -1,1 +1,0 @@
-This folder consists of python programs that I have written for self learning purposes
